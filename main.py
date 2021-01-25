@@ -1,5 +1,5 @@
 #☾☽CONFIG FOR BOT☾☽
-token = "Nzk0MDUyNzc5Mzk0OTkwMTEy.X-1NRw.coxiwGM1wlXRzoDVX4a-QeEAxyw"
+token = "token"
 prefix = "."
 #☫CONFIG FOR NUKE☫#
 spam_messages = ["@everyone add More5#5555", "@everyone your gay"]
